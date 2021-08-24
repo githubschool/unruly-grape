@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "I'm making a change to this title"
+title: "this is another title change!"
 ---
 
 Use the right arrow to begin!
